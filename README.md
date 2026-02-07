@@ -1,0 +1,1 @@
+My capstone project for my Master's degree was centered around predicting liver transplantation outcomes using free text data from the donor intake forms. We were able to accurately predict the outcome of the donor (i.e. was there liver donated or not) using this text data. Due to the sensitive nature of the data all logic except for the final modeling approach has been omitted.
